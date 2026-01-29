@@ -1,0 +1,5 @@
+edad = 24
+
+si edad >= 18 {imprimir("Eres mayor de edad.")}
+sino {imprimir("Eres menor de edad.")}
+para i = 1 hasta 5 {imprimir("Número: " + i)}
